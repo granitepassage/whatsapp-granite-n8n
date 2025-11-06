@@ -1,0 +1,5 @@
+# Ignore secrets and temp files
+.env
+*.log
+.DS_Store
+data/catalog_normalized.json
